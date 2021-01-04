@@ -44,6 +44,12 @@
 		EB59215B23BFA1F5001D6155 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EB59215A23BFA1F5001D6155 /* main.m */; };
 		EB59215C23BFA1F5001D6155 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EB59215A23BFA1F5001D6155 /* main.m */; };
 		ED297163215061F000B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; };
+		6E3A33B236D44988B1F120E9 /* Muli-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 932AD3BA07D34382A1A94AFB /* Muli-Regular.ttf */; };
+		2CC66412BE3D4BC08A8D3CBC /* Muli-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 932AD3BA07D34382A1A94AFB /* Muli-Regular.ttf */; };
+		3F58783E6B6B48B6BE268EE9 /* Muli-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D39923C085E4A80A799445A /* Muli-Bold.ttf */; };
+		74E03EFF7DCA4E3ABD0CE940 /* Muli-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D39923C085E4A80A799445A /* Muli-Bold.ttf */; };
+		91BD0CC51B1D4F0584499681 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B2DFE2A0BA6C4AF18348DA2E /* Poppins-Bold.ttf */; };
+		5A8BE0AD770F4C8BB34ACF67 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B2DFE2A0BA6C4AF18348DA2E /* Poppins-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -113,6 +119,9 @@
 		EBC80A6022DF4205007E5F3D /* config.debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = config.debug.xcconfig; sourceTree = "<group>"; };
 		EBC80A6122DF42DF007E5F3D /* config.release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = config.release.xcconfig; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		932AD3BA07D34382A1A94AFB /* Muli-Regular.ttf */ = {isa = PBXFileReference; name = "Muli-Regular.ttf"; path = "Muli-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3D39923C085E4A80A799445A /* Muli-Bold.ttf */ = {isa = PBXFileReference; name = "Muli-Bold.ttf"; path = "Muli-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B2DFE2A0BA6C4AF18348DA2E /* Poppins-Bold.ttf */ = {isa = PBXFileReference; name = "Poppins-Bold.ttf"; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -272,6 +281,9 @@
 			isa = PBXGroup;
 			children = (
 				EB55620B22E0755000E19C26 /* glyphicons-halflings-regular.ttf */,
+				932AD3BA07D34382A1A94AFB /* Muli-Regular.ttf */,
+				3D39923C085E4A80A799445A /* Muli-Bold.ttf */,
+				B2DFE2A0BA6C4AF18348DA2E /* Poppins-Bold.ttf */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -402,6 +414,9 @@
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				EB55620C22E0755000E19C26 /* glyphicons-halflings-regular.ttf in Resources */,
 				1A0B3AF323990C2400388BF7 /* config.xcconfig in Resources */,
+				6E3A33B236D44988B1F120E9 /* Muli-Regular.ttf in Resources */,
+				3F58783E6B6B48B6BE268EE9 /* Muli-Bold.ttf in Resources */,
+				91BD0CC51B1D4F0584499681 /* Poppins-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -417,6 +432,9 @@
 				1A0B3AF12399095C00388BF7 /* config.xcconfig in Resources */,
 				1A0B3AEA2398185600388BF7 /* config.debug.xcconfig in Resources */,
 				1A0B3A9C2397DA2300388BF7 /* LaunchApp.storyboard in Resources */,
+				2CC66412BE3D4BC08A8D3CBC /* Muli-Regular.ttf in Resources */,
+				74E03EFF7DCA4E3ABD0CE940 /* Muli-Bold.ttf in Resources */,
+				5A8BE0AD770F4C8BB34ACF67 /* Poppins-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
