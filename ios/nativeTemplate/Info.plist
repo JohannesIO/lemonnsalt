@@ -67,6 +67,9 @@
     <key>UIAppFonts</key>
     <array>
       <string>glyphicons-halflings-regular.ttf</string>
+      <string>Muli-Regular.ttf</string>
+      <string>Muli-Bold.ttf</string>
+      <string>Poppins-Bold.ttf</string>
     </array>
     <key>UILaunchStoryboardName</key>
     <string>LaunchScreen</string>
